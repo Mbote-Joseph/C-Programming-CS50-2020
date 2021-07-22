@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 // To show the exit status code we rum:
-// echo $?
+// echo $? command
 int main(int argc, string argv[]){
     if(argc !=2){
         printf("Missing command-line argument\n");
